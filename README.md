@@ -1,0 +1,2 @@
+# feature_engineering_session_dhs18
+Contains code and presentation for my interactive hack session, 'Effective Feature Engineering: A Structured Approach to Building Better Machine Learning Models' where we look at two interesting case studies on how to effectively leverage feature engineering and use a structured approach to build good machine learning models. This is created for the purpose of being presented in Analytics Vidha's Data Hack Summit 2018
