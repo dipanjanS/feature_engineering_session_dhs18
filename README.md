@@ -16,6 +16,7 @@ This repository contains code and presentation for my one hour interactive hack 
 
 ## Case Study 1: New York City Taxi Fare Prediction
 ![](nyc_fare_prediction/nyc_taxi_banner.jpg)
+<br>
 In Case Study 1, we will look at predicting taxi fare prices around New York City. This will be a regression problem at scale where we will be dealing with millions of data points! We will start with building a simple baseline model and then incrementally build on our baseline model with a wide variety of feature engineering techniques which include the following.
 
 - Outlier Analysis and Removal
@@ -29,6 +30,7 @@ In Case Study 1, we will look at predicting taxi fare prices around New York Cit
 
 ## Case Study 2: Predicting E-Commerce Product Recommendation Ratings from Reviews
 ![](ecommerce_product_ratings_prediction/clothing_banner.jpg)
+<br>
 In Case Study 2, we will explore another interesting dataset pertaining to e-commerce product reviews and ratings. Here we tackle a classification problem of trying to predict recommended product ratings based on the customer review descriptions – a classic NLP problem! Here we will explore the following techniques in detail.
 
 - Classic NLP count based features from text
